@@ -19,3 +19,9 @@ Deep Learning & Image Processing
 
 # Goal
 To assist medical professionals in identifying PCOS patterns in ovarian ultrasound images through automated and explainable AI analysis.
+
+# Dataset
+The dataset used for training and testing the PCOS detection model is stored in Google Drive.
+
+# Download the dataset here 
+[PCOS Ultrasound Dataset – Google Drive](https://drive.google.com/file/d/1DyPO81SONB9gFR-jFyNMgoFs8SW0acgj/view?usp=drive_link)
